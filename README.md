@@ -12,7 +12,7 @@ Pagina include:
    Link-ul va fi de forma:  
 
    ```
-   https://username.github.io/evaluare-musicala/evaluare.html
+   https://modai-star.github.io/Evaluare-muzicala/evaluare.html
    ```
 
 2. Alternativ, descarcă fișierul `evaluare.html` și deschide-l local în browser.  
